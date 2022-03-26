@@ -107,8 +107,7 @@ Preliminary:
 **Flow Navigation** (Screen to Screen)
 
 * [Forced Log-in -> Account creation if no log in is available]
-   * [list screen navigation here]
-   * ...
+
 * [Communities]
    * [Create a Community]
 
